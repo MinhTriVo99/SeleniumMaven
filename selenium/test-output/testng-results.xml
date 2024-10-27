@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-27T21:33:42 ICT" name="Default suite" finished-at="2024-10-27T21:33:50 ICT" duration-ms="7656">
+  <suite started-at="2024-10-27T22:39:46 ICT" name="Default suite" finished-at="2024-10-27T22:39:53 ICT" duration-ms="7884">
     <groups>
     </groups>
-    <test started-at="2024-10-27T21:33:42 ICT" name="Default test" finished-at="2024-10-27T21:33:50 ICT" duration-ms="7656">
+    <test started-at="2024-10-27T22:39:46 ICT" name="Default test" finished-at="2024-10-27T22:39:53 ICT" duration-ms="7884">
       <class name="automation.testsuite.Login">
-        <test-method is-config="true" signature="init()[pri:0, instance:automation.testsuite.Login@4b0d79fc]" started-at="2024-10-27T21:33:43 ICT" name="init" finished-at="2024-10-27T21:33:43 ICT" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:automation.testsuite.Login@4b0d79fc]" started-at="2024-10-27T22:39:46 ICT" name="init" finished-at="2024-10-27T22:39:46 ICT" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="NhanVien()[pri:0, instance:automation.testsuite.Login@4b0d79fc]" started-at="2024-10-27T21:33:43 ICT" name="NhanVien" finished-at="2024-10-27T21:33:50 ICT" duration-ms="7588" status="PASS">
+        <test-method signature="NhanVien()[pri:0, instance:automation.testsuite.Login@4b0d79fc]" started-at="2024-10-27T22:39:46 ICT" name="NhanVien" finished-at="2024-10-27T22:39:53 ICT" duration-ms="7809" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NhanVien -->
-        <test-method is-config="true" signature="init()[pri:0, instance:automation.testsuite.Login@4b0d79fc]" started-at="2024-10-27T21:33:50 ICT" name="init" finished-at="2024-10-27T21:33:50 ICT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:automation.testsuite.Login@4b0d79fc]" started-at="2024-10-27T22:39:53 ICT" name="init" finished-at="2024-10-27T22:39:53 ICT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="testcase1()[pri:0, instance:automation.testsuite.Login@4b0d79fc]" started-at="2024-10-27T21:33:50 ICT" name="testcase1" finished-at="2024-10-27T21:33:50 ICT" duration-ms="2" status="PASS">
+        <test-method signature="testcase1()[pri:0, instance:automation.testsuite.Login@4b0d79fc]" started-at="2024-10-27T22:39:53 ICT" name="testcase1" finished-at="2024-10-27T22:39:53 ICT" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
